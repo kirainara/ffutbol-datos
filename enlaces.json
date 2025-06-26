@@ -1,0 +1,516 @@
+{
+    "Fútbol": [
+        {
+            "nombre": "DAZN LaLiga",
+            "enlace": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
+            "categoria": "LaLiga"
+        },
+        {
+            "nombre": "Movistar Fútbol HD 1",
+            "enlace": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+            "categoria": "Otros"
+        },
+        {
+            "nombre": "Movistar Fútbol HD 2",
+            "enlace": "acestream://8677d339ecddd75165c0015025f598b6215974cf",
+            "categoria": "Otros"
+        },
+        {
+            "nombre": "Canal La Liga 1",
+            "enlace": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4",
+            "categoria": "Otros"
+        },
+        {
+            "nombre": "Canal La Liga 2",
+            "enlace": "acestream://3e87464ed8c42ed14464461ea08860a3040a8944",
+            "categoria": "Otros"
+        },
+        {
+            "nombre": "Canal La Liga 3",
+            "enlace": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+            "categoria": "Otros"
+        },
+        {
+            "nombre": "DAZN LaLiga 1080p",
+            "enlace": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
+            "categoria": "LaLiga"
+        },
+        {
+            "nombre": "Movistar Fútbol HD Es 3",
+            "enlace": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
+            "categoria": "Fútbol España"
+        },
+        {
+            "nombre": "Canal Deportes 1 Spain 1",
+            "enlace": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
+            "categoria": "TDT Deportes"
+        },
+        {
+            "nombre": "Canal Deportes 1 Spain 2",
+            "enlace": "acestream://3247bc6580de6e30022b0b9b18d8f5e59c566500",
+            "categoria": "TDT Deportes"
+        },
+        {
+            "nombre": "Canal Deportes 1 Spain 3",
+            "enlace": "acestream://14f3d7c60da602e3efa704a0a623a43fa21d822f",
+            "categoria": "TDT Deportes"
+        },
+        {
+            "nombre": "Canal Deporte 1",
+            "enlace": "acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 2",
+            "enlace": "acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 3",
+            "enlace": "acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 4",
+            "enlace": "acestream://118416583faa3fb4f03800173429b6b844b43a52",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 5",
+            "enlace": "acestream://21d84135408bc24d7daf25ee146121eebfd90516",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 6",
+            "enlace": "acestream://9b9738655095abfbfa7cb95bcb801792ae1243c9",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 7",
+            "enlace": "acestream://821eb83594bac4da4f2877f88e56d05400bb5d1b",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 8",
+            "enlace": "acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 9",
+            "enlace": "acestream://608b0faf7d3d25f6fe5dba13d5e4b41429949990",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 10",
+            "enlace": "acestream://257601c048fac7b7b5272f4e97369533127d0544",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 11",
+            "enlace": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 12",
+            "enlace": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 13",
+            "enlace": "acestream://676574456c656d656e747342795461674e616d65",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 14",
+            "enlace": "acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Canal Deporte 15",
+            "enlace": "acestream://d2b62dc65b7a4b0b9d448de93771580a5eadef6c",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "Movistar Fútbol HD Es",
+            "enlace": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+            "categoria": "Fútbol España"
+        },
+        {
+            "nombre": "Movistar Fútbol HD Es 2",
+            "enlace": "acestream://8677d339ecddd75165c0015025f598b6215974cf",
+            "categoria": "Fútbol España"
+        },
+        {
+            "nombre": "Movistar Deportes 1",
+            "enlace": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
+            "categoria": "Deportes España"
+        },
+        {
+            "nombre": "LaLigaTV BAR",
+            "enlace": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+        },
+        {
+            "nombre": "M. LaLiga - 1080p Opción 1",
+            "enlace": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"
+        },
+        {
+            "nombre": "M. LaLiga - 1080p Opción 2",
+            "enlace": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"
+        },
+        {
+            "nombre": "M. LaLiga - 1080p Opción 3",
+            "enlace": "acestream://731428b18eb656121990261c1b072b13f7caef30"
+        },
+        {
+            "nombre": "M. LaLiga - 720p",
+            "enlace": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"
+        },
+        {
+            "nombre": "M. LaLiga 2 - 1080p",
+            "enlace": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"
+        },
+        {
+            "nombre": "M. LaLiga 2 - 720p",
+            "enlace": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"
+        },
+        {
+            "nombre": "DAZN LaLiga - 1080p Opción 1",
+            "enlace": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
+        },
+        {
+            "nombre": "DAZN LaLiga - 1080p Opción 2",
+            "enlace": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
+        },
+        {
+            "nombre": "DAZN LaLiga - 1080p Opción 3",
+            "enlace": "acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256"
+        },
+        {
+            "nombre": "DAZN LaLiga - 720p",
+            "enlace": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"
+        },
+        {
+            "nombre": "DAZN LaLiga 2 - 1080p",
+            "enlace": "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10"
+        },
+        {
+            "nombre": "DAZN LaLiga 2 - 720p",
+            "enlace": "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79"
+        },
+        {
+            "nombre": "LaLiga Hypermotion - 1080p",
+            "enlace": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"
+        },
+        {
+            "nombre": "LaLiga Hypermotion - 720p",
+            "enlace": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+        },
+        {
+            "nombre": "Sky La Liga 1",
+            "enlace": "acestream://01b333b9369c662775902638ef8cffac346a0f61",
+            "categoria": "LaLiga"
+        },
+        {
+            "nombre": "Movistar Fútbol HD Es",
+            "enlace": "acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
+            "categoria": "Laliga"
+        },
+        {
+            "nombre": "Movistar Fútbol HD Es (alt)",
+            "enlace": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+            "categoria": "Laliga"
+        },
+        {
+            "nombre": "M. LaLiga 1080 multi",
+            "enlace": "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
+            "categoria": "Laliga"
+        },
+        {
+            "nombre": "Movistar Deportes HD",
+            "enlace": "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+            "categoria": "Deportes"
+        },
+        {
+            "nombre": "Pluto TV Deportes Internacionales",
+            "enlace": "https://pluto.tv/live-tv/espndeportes",
+            "categoria": "Internacionales"
+        },
+        {
+            "nombre": "Movistar Deportes 1 (Extra)",
+            "enlace": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+            "categoria": "Deportes España"
+        },
+        {
+            "nombre": "M+ Liga de Campeones FHD",
+            "enlace": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
+            "categoria": "España TV"
+        },
+        {
+            "nombre": "M+ Deportes HD",
+            "enlace": "acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486",
+            "categoria": "España TV"
+        },
+        {
+            "nombre": "M+ Deportes 2 HD",
+            "enlace": "acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6",
+            "categoria": "España TV"
+        },
+        {
+            "nombre": "M+ Deportes 3 HD",
+            "enlace": "acestream://85bd65161dfd8c4033194da3c978c0450c9111db",
+            "categoria": "España TV"
+        },
+        {
+            "nombre": "DAZN LaLiga HD",
+            "enlace": "acestream://df98650743f24a245c44cdf2851e57078f4c487a",
+            "categoria": "España TV"
+        },
+        {
+            "nombre": "LaLiga SmartBank TV 1080",
+            "enlace": "acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf",
+            "categoria": "España TV"
+        },
+        {
+            "nombre": "M+ Deportes 4HD",
+            "enlace": "acestream://0c8935087510ee1c5117243a6cc48a2203b8d6f",
+            "categoria": "España TV"
+        },
+        {
+            "nombre": "TNT Sports HD",
+            "enlace": "acestream://0123456789abcdef0123456789abcdef01234567"
+        }
+    ],
+    "Internacionales": [
+        {
+            "nombre": "ESPN USA",
+            "enlace": "acestream://89abcdef0123456789abcdef0123456789abcdef"
+        }
+    ],
+    "Cine y Series": [
+        {
+            "nombre": "#Vamos",
+            "enlace": "acestream://a61ee399aa0dcae304b27fa36a5f3c7ef624f907",
+            "categoria": "LaLiga"
+        },
+        {
+            "nombre": "Sky Sports Football",
+            "enlace": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+            "categoria": "Otros"
+        },
+        {
+            "nombre": "#Vamos HD",
+            "enlace": "acestream://275bc0f2d07c40f2d8db0e0d68cb167ac32fcfdc",
+            "categoria": "LaLiga"
+        },
+        {
+            "nombre": "NHL 1",
+            "enlace": "acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 2",
+            "enlace": "acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 3",
+            "enlace": "acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 4",
+            "enlace": "acestream://118416583faa3fb4f03800173429b6b844b43a52",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 5",
+            "enlace": "acestream://21d84135408bc24d7daf25ee146121eebfd90516",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 6",
+            "enlace": "acestream://9b9738655095abfbfa7cb95bcb801792ae1243c9",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 7",
+            "enlace": "acestream://821eb83594bac4da4f2877f88e56d05400bb5d1b",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 8",
+            "enlace": "acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 9",
+            "enlace": "acestream://608b0faf7d3d25f6fe5dba13d5e4b41429949990",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 10",
+            "enlace": "acestream://257601c048fac7b7b5272f4e97369533127d0544",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 11",
+            "enlace": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 12",
+            "enlace": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 13",
+            "enlace": "acestream://676574456c656d656e747342795461674e616d65",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 14",
+            "enlace": "acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "NHL 15",
+            "enlace": "acestream://d2b62dc65b7a4b0b9d448de93771580a5eadef6c",
+            "categoria": "NHL"
+        },
+        {
+            "nombre": "Movistar F1 (España)",
+            "enlace": "acestream://5789ca155323664edd293b848606688edf803f4d",
+            "categoria": "Motor"
+        },
+        {
+            "nombre": "Eurosport 1 España",
+            "enlace": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710",
+            "categoria": "Deportes España"
+        },
+        {
+            "nombre": "Movistar F1 (España)",
+            "enlace": "acestream://5789ca155323664edd293b848606688edf803f4d",
+            "categoria": "Motor España"
+        },
+        {
+            "nombre": "Movistar F1 – Es",
+            "enlace": "acestream://5789ca155323664edd293b848606688edf803f4d",
+            "categoria": "Motor España"
+        },
+        {
+            "nombre": "Movistar F1 – Es 2",
+            "enlace": "acestream://6422e8bc34282871634c81947be093c04ad1bb29",
+            "categoria": "Motor España"
+        },
+        {
+            "nombre": "Sky Sports F1",
+            "enlace": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+            "categoria": "Motor Internacional"
+        },
+        {
+            "nombre": "Eurosport 1 Spain",
+            "enlace": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710",
+            "categoria": "Deportes España"
+        },
+        {
+            "nombre": "Movistar MotoGP",
+            "enlace": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+            "categoria": "Motor España"
+        },
+        {
+            "nombre": "Movistar Golf",
+            "enlace": "acestream://872608e734992db636eb79426802cd08f4029afb",
+            "categoria": "Deportes España"
+        },
+        {
+            "nombre": "#Vamos 1080p",
+            "enlace": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+        },
+        {
+            "nombre": "#Vamos 720p",
+            "enlace": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+        },
+        {
+            "nombre": "Movistar+",
+            "enlace": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+        },
+        {
+            "nombre": "#Vamos 1080p",
+            "enlace": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+        },
+        {
+            "nombre": "#Vamos 720p",
+            "enlace": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+        },
+        {
+            "nombre": "DAZN 1 1080",
+            "enlace": "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+            "categoria": "Deportes"
+        },
+        {
+            "nombre": "DAZN F1 1080",
+            "enlace": "acestream://5789ca155323664edd293b848606688edf803f4d",
+            "categoria": "Deportes"
+        },
+        {
+            "nombre": "Canal Hollywood",
+            "enlace": "acestream://c0c776ea21d8471b9cbaf8df3f8a9cb4d5fa5673",
+            "categoria": "Cine"
+        },
+        {
+            "nombre": "Pluto TV Acción",
+            "enlace": "https://pluto.tv/en/live-tv/5f3ffb23b2e70d0007db4b50",
+            "categoria": "Series"
+        },
+        {
+            "nombre": "Crackle Series",
+            "enlace": "https://www.crackle.com/series",
+            "categoria": "Series"
+        },
+        {
+            "nombre": "Veo 7",
+            "enlace": "https://www.veo7.tv/directo",
+            "categoria": "Tdt"
+        },
+        {
+            "nombre": "PirloTV MLB",
+            "enlace": "https://pirlotv.fr/mlb-live",
+            "categoria": "Internacionales"
+        },
+        {
+            "nombre": "TNT Sport 1 (UK)",
+            "enlace": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "TNT Sport 3 (UK)",
+            "enlace": "acestream://5f966c123759de46dff29c379266b7a403452033",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "TNT Sport ESPN (UK)",
+            "enlace": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
+            "categoria": "Deportes Internacionales"
+        },
+        {
+            "nombre": "TNT Sports 1 (Brasil)",
+            "enlace": "acestream://49870cc03893c232a36b2f22907dc2c2d5b97a11",
+            "categoria": "Deportes Sudamérica"
+        },
+        {
+            "nombre": "TNT Sports 2 (Brasil)",
+            "enlace": "acestream://a7961bb435dafa4118dac759d86520130101adde",
+            "categoria": "Deportes Sudamérica"
+        },
+        {
+            "nombre": "TNT Sports 3 (Brasil)",
+            "enlace": "acestream://c40e7d086bfd17cdf4163ae873df290e1ee7997f",
+            "categoria": "Deportes Sudamérica"
+        },
+        {
+            "nombre": "TNT Sports 4 (Brasil)",
+            "enlace": "acestream://ec6d02863b30f58aea0bd79951c35398f876cbee",
+            "categoria": "Deportes Sudamérica"
+        }
+    ]
+}
